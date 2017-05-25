@@ -2,11 +2,35 @@
   list-style: none;
 }
 .nav li{
-  display: inline;
-  padding: 20px;
+  display: inline-block;
+  padding: 20px;}
+img{
+    width:300px;
 }
-  background image{
-    body:toto.jpg;
-  }
+.home-content img{
+  width:100%;
+}
+.nav{
+  background-color:green;
+}
+.nav ul li{
+  padding-top: 15px 15px;
 
+}
+
+.activities img{
+  width:500px;
+}
+
+img{
+  width:100%;
+}
+.accomodation img{
+  width:500px;
+}
+.pictures img{
+  width:500px;
+}
+.arrangement img{
+  width:100%;
 }
