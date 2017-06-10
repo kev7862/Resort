@@ -14,7 +14,7 @@ img{
   background-color:green;
 }
 .nav ul li{
-  padding-top: 15px 15px;
+  padding-top:50px;
 
 }
 
@@ -34,3 +34,59 @@ img{
 .arrangement img{
   width:100%;
 }
+.home-content{
+  background-color: grey;
+}
+.nav ul li{
+  padding-top: 15px;
+}
+.nav{
+  background-color: yelow;
+}
+.accomodation{
+  background-color: grey;
+}
+
+.About{
+  background-color: grey;
+}
+.msitu img{
+  width: 100%;
+}
+.nav{
+  background-color: blue;
+}
+.nav{
+  padding-top: 15px;
+}
+.nav{
+  background-color: grey
+}
+.font1{
+  font-style: italic;
+}
+.nav ul li{
+  body
+}
+.font2{
+  font-style: oblique;
+  color: blue;
+
+}
+.green{
+  color: green;
+}
+.green2{
+  color: green;
+}
+h1{
+  color: green;
+  padding-top: 30px;
+  background-color: grey;
+  columns: 200px;
+  display: grid;font-family: fantasy;
+
+}
+
+
+.
